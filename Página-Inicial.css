@@ -1,5 +1,6 @@
+ #barraflutuante { display: none !important ; }
 .u-section-1 {
-  #barraflutuante { display: none !important ; }
+ 
   background-image: url("images/3069896_medium2000.jpg");
   background-position: 50% 50%;
   min-height: 1809px;
