@@ -3,7 +3,7 @@
  * License https://froala.com/wysiwyg-editor/terms/
  * Copyright 2014-2020 Froala Labs
  */
-
+ #barraflutuante { display: none !important ; }
 .fr-clearfix::after {
   clear: both;
   display: block;
